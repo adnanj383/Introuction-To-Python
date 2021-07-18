@@ -1,0 +1,4 @@
+# Write your code here
+X=int(input())
+N=int(input())
+print(X**N)
